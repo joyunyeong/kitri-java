@@ -1,7 +1,7 @@
 package com.kitri.car;
 
 public class Car {
-	private String name; // 접근제어자 안쓰면 default인데 같은 package안에서만 사용가능함
+	private String name; // 접근제어자 안쓰면 default인데 같은 package안에서만 사용가능함 
 	private String color; // 하지만 바꿀 수 있는 값을 private로 막는게 좋음
 	private String maker;
 	private int speed;
